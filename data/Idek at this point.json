@@ -1,0 +1,26 @@
+{
+    "id": 71758794,
+    "name": "Idek at this point",
+    "author": "Ateshi",
+    "creators": ["Ateshi"],
+    "verifier": "Ateshi",
+    "verification": "https://youtu.be/eNrmW1M71_o?si=9tDG-jtD6tIJ-Xpq",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MADxSG",
+            "percent": 100
+        },
+        {
+            "user": "BabunEbatt",
+            "link": "https://youtu.be/g1Yj8VSRnJc?si=-vrCJRoJMmQ8__ss",
+            "percent": 100
+        },
+        {
+            "user": "HG14mmar",
+            "link": "https://youtu.be/c0cf_DSeWOE?si=On7RN9Ztw9kgIYGV",
+            "percent": 100
+        }
+    ]
+}
