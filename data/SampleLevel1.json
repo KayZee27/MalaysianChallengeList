@@ -5,13 +5,8 @@
     "creators": ["MADxSG"],
     "verifier": "MADxSG",
     "verification": "https://youtu.be/LRKEuaMbui8?si=wHG8K_9C5smQX_nS",
+    "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
