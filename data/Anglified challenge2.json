@@ -1,0 +1,22 @@
+{
+    "id": 79535942,
+    "name": "Anglified challenge2",
+    "author": "Upsilonic",
+    "creators": ["Upsilonic"],
+    "verifier": "Upsilonic",
+    "verification": "https://youtu.be/Osqmn3R3bsM?si=7N8YrCwMak8HrVNY",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Anglified",
+            "link": "https://youtu.be/2QXhquHEJ-I?t=4449",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/qBEhCw2uKew",
+            "percent": 100
+        }
+    ]
+}
