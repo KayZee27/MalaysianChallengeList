@@ -1,0 +1,29 @@
+{
+    "id": 66258633,
+    "name": "ldteam challenge",
+    "author": "Arisaa",
+    "creators": ["Arisaa"],
+    "verifier": "Arisaa",
+    "verification": "https://youtu.be/HWA5L57Nu5M?si=dn05irfhxRs3Xphc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Redcatzz",
+            "percent": 100
+        },
+        {
+            "user": "Arxial",
+            "percent": 100
+        },
+        {
+            "user": "MADxSG",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://www.youtube.com/watch?v=VrKJi-NRKC8",
+            "percent": 100
+        }
+    ]
+}
