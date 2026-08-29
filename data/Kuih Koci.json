@@ -1,0 +1,32 @@
+{
+    "id": 79796267,
+    "name": "Kuih Koci",
+    "author": "NotLukh",
+    "creators": ["NotLukh"],
+    "verifier": "MADxSG",
+    "verification": "https://youtu.be/MQjYeCbpiEk?si=A9-a2QMuJ1CVmZs3",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "FastestBoyee",
+            "link": "https://youtu.be/4Yx2_e_08gY",
+            "percent": 100
+        },
+        {
+            "user": "BabunEbatt",
+            "link": "https://youtu.be/A96E20efzBg",
+            "percent": 100
+        },
+        {
+            "user": "HG14mmar",
+            "link": "https://youtu.be/Qke3ydfpQLY?t=4284",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/zr2DrF0pGMM?t=268",
+            "percent": 100
+        }
+    ]
+}
