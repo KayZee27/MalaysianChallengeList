@@ -1,0 +1,17 @@
+{
+    "id": 80912196,
+    "name": "Phosphorus",
+    "author": "KayZee",
+    "creators": ["KayZee"],
+    "verifier": "KayZee",
+    "verification": "https://youtu.be/m4Z-ljHiXnY?si=E_1wvgolZXfCdbB2",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "danielin2021",
+            "link": "https://www.youtube.com/watch?v=vP3LR0ZS5dk",
+            "percent": 100
+        }
+    ]
+}
