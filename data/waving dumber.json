@@ -1,0 +1,42 @@
+{
+    "id": 78787790,
+    "name": "waving dumber",
+    "author": "danielin2021",
+    "creators": ["danielin2021"],
+    "verifier": "danielin2021",
+    "verification": "https://youtu.be/z1lU37xyUQQ?si=iT60W1-unWzvdeI1",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "FarAwayLand",
+            "link": "https://drive.google.com/file/d/1kmBxV1DuAlPe9Ip2G5j7j-s4yar0jigh/view?usp=sharing",
+            "percent": 100
+        },
+        {
+            "user": "KobaGD",
+            "link": "https://youtu.be/j4A_HBKcwdo",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://www.youtube.com/watch?v=VrKJi-NRKC8",
+            "percent": 100
+        },
+        {
+            "user": "Anglified",
+            "link": "https://youtu.be/wnZMDtW53qs",
+            "percent": 100
+        },
+        {
+            "user": "GDEdric",
+            "link": "https://youtu.be/JTdnZQ6CN_s?t=522",
+            "percent": 100
+        },
+        {
+            "user": "HG14mmar",
+            "link": "https://youtu.be/jGp-jBQ6bBA?t=7818",
+            "percent": 100
+        }
+    ]
+}
