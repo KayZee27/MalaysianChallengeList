@@ -1,0 +1,21 @@
+{
+    "id": 80760531,
+    "name": "Veri Hard",
+    "author": "ItsZplayer",
+    "creators": ["ItsZplayer"],
+    "verifier": "ItsZplayer",
+    "verification": "https://youtu.be/DyXX2ktRI7A?si=Qsrf3g7QCSIj6By5",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MADxSG",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/zr2DrF0pGMM?t=279",
+            "percent": 100
+        }
+    ]
+}
