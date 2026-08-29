@@ -1,0 +1,35 @@
+{
+    "id": 78587424,
+    "name": "Karat Challenge",
+    "author": "MadRy",
+    "creators": ["MadRy"],
+    "verifier": "ShinyHadifDXP",
+    "verification": "https://youtu.be/KfwfIirgzKw?si=MSnYXHbobfyAeDWr",
+    "percentToQualify": "100",
+    "password": "001957",
+    "records": [
+        {
+            "user": "10ka",
+            "link": "https://youtu.be/QhmPuT43WEc",
+            "percent": 100
+        },
+        {
+            "user": "Fuuneral",
+            "percent": 100
+        },
+        {
+            "user": "MADxSG",
+            "percent": 100
+        },
+        {
+            "user": "FarAwayLand",
+            "link": "https://drive.google.com/drive/u/0/folders/1-CqdWobGuJj--uKSsZ10RXeHgUqu5xyL",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://www.youtube.com/watch?v=VrKJi-NRKC8",
+            "percent": 100
+        }
+    ]
+}
