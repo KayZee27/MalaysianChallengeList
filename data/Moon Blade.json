@@ -1,0 +1,26 @@
+{
+    "id": 80419731,
+    "name": "Moon Blade",
+    "author": "Lyr4a",
+    "creators": ["Lyr4a"],
+    "verifier": "Leaf",
+    "verification": "https://youtu.be/_9gmCDH1h9s?si=rqFVay_oda24Rgir",
+    "percentToQualify": "100",
+    "password": "000001",
+    "records": [
+        {
+            "user": "MADxSG",
+            "percent": 100
+        },
+        {
+            "user": "HG14mmar",
+            "link": "https://www.youtube.com/watch?v=qpOc6qHOfCI",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/zr2DrF0pGMM",
+            "percent": 100
+        }
+    ]
+}
