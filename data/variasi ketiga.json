@@ -1,0 +1,26 @@
+{
+    "id": 80736732,
+    "name": "variasi ketiga",
+    "author": "HaD1F2OO8",
+    "creators": ["HaD1F2OO8"],
+    "verifier": "HaD1F2OO8",
+    "verification": "https://youtu.be/cqCLavMsCZ8?si=afa_QBjgaTkZi85Z",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "MADxSG",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/zr2DrF0pGMM?t=241",
+            "percent": 100
+        },
+        {
+            "user": "HG14mmar",
+            "link": "https://youtu.be/jGp-jBQ6bBA?t=6219",
+            "percent": 100
+        }
+    ]
+}
