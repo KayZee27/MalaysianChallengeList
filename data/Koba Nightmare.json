@@ -1,0 +1,27 @@
+{
+    "id": 80914960,
+    "name": "Koba Nightmare",
+    "author": "FarAwayLand",
+    "creators": ["FarAwayLand"],
+    "verifier": "FarAwayLand",
+    "verification": "https://youtu.be/gCDSNGJRbeM?si=9K5DFTxdZx-LXMfu",
+    "percentToQualify": "100",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "danielin2021",
+            "link": "https://youtu.be/gCDSNGJRbeM",
+            "percent": 100
+        },
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/zr2DrF0pGMM?t=158",
+            "percent": 100
+        },
+        {
+            "user": "HG14mmar",
+            "link": "https://youtu.be/YQTmWZchKBE?t=9153",
+            "percent": 100
+        }
+    ]
+}
