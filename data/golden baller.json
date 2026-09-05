@@ -12,6 +12,12 @@
             "user": "KayZee",
             "link": "https://youtu.be/qf8C7n3U1U0",
             "percent": 100
+        },
+        {
+            "user": "Larry",
+            "link": "https://youtu.be/JXpmopTZEkQ",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
