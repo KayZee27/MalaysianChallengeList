@@ -37,6 +37,12 @@
             "user": "HG14mmar",
             "link": "https://youtu.be/jGp-jBQ6bBA?t=7818",
             "percent": 100
+        },
+        {
+            "user": "Larry",
+            "link": "https://youtu.be/GZ4VZ3fWV2c",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
