@@ -17,6 +17,12 @@
             "user": "KayZee",
             "link": "https://youtu.be/qBEhCw2uKew",
             "percent": 100
+        },
+        {
+            "user": "TheBaguetteLord",
+            "link": "https://www.youtube.com/watch?v=reYMSpJTxjE",
+            "percent": 100,
+            "hz": 180
         }
     ]
 }
