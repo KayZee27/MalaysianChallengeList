@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Amerk",
+            "link": "https://www.youtube.com/watch?v=ARYpg-QNZEk",
+            "percent": 100,
+            "hz": 330
+        }
     ]
 }
