@@ -3,11 +3,17 @@
     "name": "Forgotten",
     "author": "NotLukh",
     "creators": ["NotLukh"],
-    "verifier": "KayZee",
-    "verification": "https://youtu.be/DItBcqmNLPw?si=UqFwb7PDhfo8i-3G",
+    "verifier": "MADxSG",
+    "verification": "https://youtu.be/6wDoH5-GsnQ",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/DItBcqmNLPw?si=UqFwb7PDhfo8i-3G",
+            "percent": 100,
+            "hz": 240
+        },
         {
             "user": "EbattG",
             "link": "https://youtu.be/aieuGJSVU9E?si=v5HV0Iaf5yeo2e9e&t=242",
