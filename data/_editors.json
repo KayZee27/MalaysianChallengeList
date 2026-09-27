@@ -7,21 +7,31 @@
     {
         "role": "admin",
         "name": "KayZee",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "link": "https://www.youtube.com/@KayZee2733"
     },
     {
         "role": "helper",
-        "name": "MADxSG, NotLukh",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MADxSG",
+        "link": "https://youtube.com/@madxsg?si=AiMkT2xO50m8XHN9"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "NotLukh",
+        "link": "https://youtube.com/@notlukh?si=CB3tNrrZ0fCOF8CX"
     },
     {
         "role": "dev",
-        "name": "KayZee, MADxSG",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "KayZee",
+        "link": "https://www.youtube.com/@KayZee2733"
+    },
+    {
+        "role": "dev",
+        "name": "MADxSG",
+        "link": "https://youtube.com/@madxsg?si=AiMkT2xO50m8XHN9"
+    },
+    {
+        "role": "dev",
+        "name": "Experience",
+        "link": "https://youtube.com/@experience8285?si=leykU8OiROgiipBo"
     }
 ]
