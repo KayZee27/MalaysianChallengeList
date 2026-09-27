@@ -5,8 +5,32 @@ export function getYoutubeIdFromUrl(url) {
     )?.[1] ?? '';
 }
 
+// export function embed(video) {
+//     return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
+// } keep this code for now
+
+//test new code for video start time
 export function embed(video) {
-    return `https://www.youtube.com/embed/${getYoutubeIdFromUrl(video)}`;
+    const videoId = getYoutubeIdFromUrl(video);
+
+    try {
+        const url = new URL(video);
+        const time = url.searchParams.get("t");
+
+        let embedUrl = `https://www.youtube.com/embed/${videoId}`;
+
+        if (time) {
+            const seconds = parseInt(time.replace("s", ""), 10);
+
+            if (!isNaN(seconds)) {
+                embedUrl += `?start=${seconds}`;
+            }
+        }
+
+        return embedUrl;
+    } catch {
+        return `https://www.youtube.com/embed/${videoId}`;
+    }
 }
 
 export function localize(num) {
