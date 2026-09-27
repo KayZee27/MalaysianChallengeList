@@ -1,6 +1,6 @@
 {
     "id": 80412645,
-    "name": "Malaysia Challenge",
+    "name": "Malaysia Challenge (Anglified)",
     "author": "Anglified",
     "creators": ["Anglified"],
     "verifier": "Anglified",
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/aieuGJSVU9E?si=b5-D4-1rk2RS9vf_&t=276",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "MADxSG",
+            "link": "https://youtu.be/Cc-ELPMNKbk",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
