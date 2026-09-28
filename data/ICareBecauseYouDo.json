@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Anglified",
+            "link": "https://youtu.be/9OzG4bqVAXc?si=9Z2f0TDBSMM8Rf_u&t=84",
+            "percent": 100,
+            "hz": 330
+        }
     ]
 }
